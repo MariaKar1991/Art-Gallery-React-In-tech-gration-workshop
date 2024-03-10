@@ -7,6 +7,6 @@ export default function ExtraServices() {
   const currentHour = new Date().getHours();
   const isDayNow = currentHour >= 6 && currentHour <= 18;
 
-  //  Components Conditional Rendering for Practicing Pursposes
+  //  Components Conditional Rendering for Practicing Purposes.
   return <>{isDayNow ? <ExtraServicesWhite /> : <ExtraServicesBlue />}</>;
 }
