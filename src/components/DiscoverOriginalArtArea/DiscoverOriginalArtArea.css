@@ -1,0 +1,41 @@
+.gallery-image {
+  border-radius: 50%;
+  height: 150px !important;
+  width: 150px;
+  margin-top: 35px;
+}
+
+.discover-paragraph1 {
+  color: black;
+  font-size: 30px;
+  margin-top: 20px;
+}
+
+.discover-paragraph2 {
+  color: black;
+}
+
+.shop-art {
+  background-color: #628799;
+  color: white;
+  border-radius: 3px;
+  border: none;
+  height: 40px;
+  width: 500px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.shop-art:hover {
+  background-color: rgb(19, 6, 70);
+}
+
+strong {
+  color: #628799;
+}
+
+@media (max-width: 575.98px) {
+  .shop-art {
+    width: 100%;
+  }
+}

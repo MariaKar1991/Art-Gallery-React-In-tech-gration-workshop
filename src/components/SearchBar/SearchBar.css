@@ -1,0 +1,26 @@
+.search-container {
+  position: relative;
+}
+
+input {
+  border-radius: 5px;
+  margin-top: 15px;
+  border: none;
+  padding-left: 35px;
+  height: 35px;
+  margin-left: 20px;
+  border: 1px solid grey;
+}
+
+input:focus {
+  outline: none;
+}
+
+.search-icon {
+  position: absolute !important;
+  top: 67% !important;
+  left: 30px !important;
+  transform: translateY(-50%) !important;
+  width: 15px !important;
+  height: 18px !important;
+}

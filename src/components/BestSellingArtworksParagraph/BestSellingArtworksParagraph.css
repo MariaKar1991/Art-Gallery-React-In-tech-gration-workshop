@@ -1,0 +1,70 @@
+.view-more-arrow {
+  height: 30px !important;
+  width: 20px;
+  margin-top: -52px;
+  margin-left: 75px;
+}
+
+.best-selling {
+  color: black;
+  font-size: 40px;
+  margin-top: 80px;
+}
+
+.best-selling-description {
+  color: black;
+}
+
+.view-all {
+  color: black;
+  cursor: pointer;
+}
+
+.description {
+  margin-top: -40px;
+  margin-left: 1100px;
+}
+
+.view-all:hover {
+  color: #007aff;
+}
+
+.best-selling-content {
+  margin-left: 205px;
+  margin-top: 140px;
+}
+
+@media (max-width: 575.98px) {
+  .description {
+    margin-left: 5px;
+    margin-top: 20px;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .description {
+    margin-top: 20px;
+    margin-left: 5px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .description {
+    margin-left: 5px;
+    margin-top: 20px;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .description {
+    margin-left: 5px;
+    margin-top: 20px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .description {
+    margin-left: 5px;
+    margin-top: 20px;
+  }
+}

@@ -1,0 +1,70 @@
+.footer-part {
+  background-color: rgb(19, 6, 70);
+  text-align: center;
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+}
+
+.header-footer-center {
+  color: white;
+  font-size: 40px;
+  margin-top: 40px;
+}
+
+a {
+  cursor: pointer;
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(54, 13, 120);
+}
+
+li {
+  margin-bottom: 50px;
+  list-style: none;
+}
+
+.scrollToTop {
+  border-radius: 50%;
+  height: 70px;
+  width: 70px;
+  border: none;
+  cursor: pointer;
+  margin-top: 30px;
+}
+
+.scrollToTop:hover {
+  background-color: #628799;
+}
+
+.arrow-up {
+  width: 30px !important;
+  height: 30px !important;
+  margin-top: 17px;
+}
+
+.hr-line {
+  color: white;
+  border: 1px solid white;
+}
+
+.icons {
+  width: 45px !important;
+  height: 45px !important;
+  background-color: white;
+  border-radius: 5px;
+  margin-left: 7px;
+  margin-top: 50px;
+}
+
+.icons:hover {
+  background-color: #628799;
+}
+
+.copyright {
+  margin-bottom: 50px;
+  color: white;
+}

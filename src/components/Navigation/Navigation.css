@@ -1,0 +1,40 @@
+.navbar {
+  background-color: white !important;
+  position: sticky !important;
+  top: 0 !important;
+  z-index: 300 !important;
+  height: 130px;
+}
+
+.nav-item {
+  padding-top: 55px;
+}
+
+.navbar-brand {
+  padding-top: 11px;
+  font-weight: 600;
+}
+
+.heart-icon {
+  margin-left: 30px;
+  height: 22px !important;
+  width: 20px !important;
+  margin-bottom: -20px;
+  cursor: pointer;
+}
+
+.avatar {
+  margin-left: 30px;
+  height: 22px !important;
+  width: 20px !important;
+  margin-bottom: -20px;
+  cursor: pointer;
+}
+
+.cart {
+  margin-left: 30px;
+  height: 25px !important;
+  width: 25px !important;
+  margin-bottom: -20px;
+  cursor: pointer;
+}

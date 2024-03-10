@@ -1,0 +1,17 @@
+.underNavMainPageBanner {
+  height: 30px;
+  margin-bottom: 40px !important;
+}
+
+.underNavMainPageBanner ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  cursor: pointer;
+}
+
+.underNavMainPageBanner li {
+  margin-right: 20px;
+  margin-left: 15px;
+}
