@@ -6,4 +6,4 @@ This project was created during the In-tech-gration Workshop on React. It serves
 
 It's a work in progress.
 
-Happy Coding!
+🚀 Happy Coding! 🚀
